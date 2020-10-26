@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "validatorDemo"
+  "defaultProject": "validatorDemo",
+  "cli": {
+    "analytics": "99de80c0-af7e-40a1-8999-342de17f28b1"
+  }
 }
